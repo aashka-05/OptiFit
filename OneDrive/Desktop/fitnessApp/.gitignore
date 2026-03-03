@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+ConfigServer/src/main/resources/config/
